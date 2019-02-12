@@ -1,0 +1,21 @@
+.test_holder {
+  width: 100%;
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
+
+.test_main {
+  width: 50%;
+  display: block;
+  height: auto;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.btns_holder {
+  width: 100%;
+  display: block;
+  height: auto;
+  overflow: hidden;
+}
